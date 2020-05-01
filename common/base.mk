@@ -659,7 +659,6 @@ PRODUCT_PACKAGES := \
     Settings \
     Sync \
     SystemUI \
-    Updater \
     CalendarProvider \
     SyncProvider \
     VoiceDialer \
